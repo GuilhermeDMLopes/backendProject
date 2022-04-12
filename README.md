@@ -16,3 +16,5 @@
         <li> npm install--save uuid </li>
         <li> npm install --save jest </li> 
     </h1>    
+    
+##video para basear: https://www.youtube.com/watch?v=K5QaTfE5ylk    
