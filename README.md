@@ -1,6 +1,3 @@
-# ide-consulta-bd
-
-## MongoDB Compass versão 1.26.1
 ## Comunicação com um banco de dados usando API RESTFul
 
 <head>
